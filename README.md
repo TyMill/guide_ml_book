@@ -65,7 +65,8 @@ Try the notebooks instantly using Binder:
 
 If you use this book or material, please cite it as:
 
-**Miller, T.** (2025). *Machine Learning Unlocked: A Practical Guide for Students with Python and Jupyter Notebook*. GitHub. [DOI: 10.5281/zenodo.XXXXXXX]
+**Miller, T.** (2025). *Machine Learning Unlocked: A Practical Guide for Students with Python and Jupyter Notebook*. GitHub. https://doi.org/10.5281/zenodo.15094085
+
 
 ---
 
