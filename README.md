@@ -1,5 +1,8 @@
 # Machine Learning How-To
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/TyMill/guide_ml_book/HEAD)
+
+
 This repository contains materials for a machine learning book, including notebooks, datasets, scripts, and models.
 
 ## Structure
